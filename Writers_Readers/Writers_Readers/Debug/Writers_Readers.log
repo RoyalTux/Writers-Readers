@@ -1,0 +1,6 @@
+﻿  Writers_Readers.cpp
+c:\users\дмитрий\desktop\writers_readers\writers_readers\writers_readers.cpp(72): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Main.cpp
+  Создание кода...
+  Writers_Readers.vcxproj -> C:\Users\Дмитрий\Desktop\Writers_Readers\Debug\Writers_Readers.exe
+  Writers_Readers.vcxproj -> C:\Users\Дмитрий\Desktop\Writers_Readers\Debug\Writers_Readers.pdb (Partial PDB)
